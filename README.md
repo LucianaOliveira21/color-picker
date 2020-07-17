@@ -1,2 +1,2 @@
 # color-picker
-Color picker - Bootcamp Full Stack IGTI
+RGB Color picker desenvolvido utilizando HTML, CSS e JavaScript para o Bootcamp Full Stack da IGTI
